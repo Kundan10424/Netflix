@@ -5,12 +5,12 @@ Welcome to an immersive entertainment experience like no other! Dive into the wo
 
 Unlock the full potential of personalized viewing with our signup and login functionality, allowing you to curate your own movie list tailored to your unique tastes. Explore a vast library of content spanning across genres, from heart-pounding action to heartwarming romance, and everything in between.
 
-With our intuitive genre selection feature, discovering new favorites has never been easier. Simply choose your preferred genre, sit back, and let our app curate a custom viewing experience just for you.
+With our intuitive genre selection feature, discovering new favourites has never been easier. Simply choose your preferred genre, sit back, and let our app curate a custom viewing experience just for you.
 
 Experience the future of entertainment today with our Netflix app clone. Elevate your downtime, escape into a world of endless possibilities, and let the magic of cinema unfold at your fingertips.
 
 ## Demo
-![Demo Image](netfli-ui/assets/home2.jpg)
+![Demo Image](netflix-ui/assets/home2.jpg)
 [Live Demo](https://github.com/Kundan10424/Netflix)
 
 ## Installation
