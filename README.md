@@ -10,7 +10,14 @@ With our intuitive genre selection feature, discovering new favourites has never
 Experience the future of entertainment today with our Netflix app clone. Elevate your downtime, escape into a world of endless possibilities, and let the magic of cinema unfold at your fingertips.
 
 ## Demo
-![Demo Image](netflix-ui/src/assets/home2.jpg)
+![Demo Image](netflix-ui/src/assets/demo1.jpg)
+![Demo Image](netflix-ui/src/assets/demo2.jpg)
+![Demo Image](netflix-ui/src/assets/demo3.jpg)
+![Demo Image](netflix-ui/src/assets/demo4.jpg)
+![Demo Image](netflix-ui/src/assets/demo5.jpg)
+![Demo Image](netflix-ui/src/assets/demo6.jpg)
+![Demo Image](netflix-ui/src/assets/demo7.jpg)
+
 [Live Demo](https://github.com/Kundan10424/Netflix)
 
 ## Installation
