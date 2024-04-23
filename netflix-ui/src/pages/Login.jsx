@@ -19,6 +19,12 @@ function Login() {
     }
   };
 
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter') {
+      handleLogin();
+    }
+  };
+
   onAuthStateChanged(firebaseAuth, (currentUser) => {
     if (currentUser) navigate("/");
   });
@@ -45,6 +51,7 @@ function Login() {
                 placeholder="Password"
                 onChange={(e) => setPassword(e.target.value)}
                 value={password}
+                onKeyPress={handleKeyPress}
               />
               <button onClick={handleLogin}>Log in</button>
             </div>
